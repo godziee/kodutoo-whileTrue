@@ -49,7 +49,6 @@ print("Lõpp!")
 print("")
 
 #3
-
 print(" ")
 õpilased = random.randint(3, 10)
 print("Kõik õpilased:", õpilased )
